@@ -1,2 +1,2 @@
-# deep_learning_proect_1
-Deep Learning Foundation Project 1
+#Predicting Bike-Sharing Patterns
+Build and train neural networks from scratch to predict the number of bikeshare users on a given day.
